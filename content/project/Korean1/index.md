@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LING 1 - Introduction to Study of Language (Fall 2019)"
+title: "KOREA 1 - Elementary Modern Korean (Fall 2020)"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2019-09-23T17:22:45-07:00
+date: 2020-09-28T13:29:03-08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
