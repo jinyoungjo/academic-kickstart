@@ -23,6 +23,10 @@ bio: My research interests are phonology, learning bias, computational modeling 
 interests:
 - Phonology
 - Acquisition
+- Learnability
+- Learning bias
+- Variation in phonology
+- Child-directed speech
 
 education:
   courses:
@@ -44,6 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:jinyoungjo@ucla.edu"  # For a direct email link, use "mailto:test@example.org".
+- icon: cv
+  icon_pack: ai
+  link: https://www.dropbox.com/s/xbjgkgge4wke85e/cv.pdf?dl=0
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -55,9 +62,6 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
