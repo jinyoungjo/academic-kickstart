@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://linguistics.ucla.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are phonology, learning bias, computational modeling of morphophonological learning, phonological acquisition and child-directed speech.
+bio: My research interests are individual differences in phonology, learning biases, phonological acquisition and child-directed speech.
 
 interests:
 - Phonology
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Jinyoung Jo is a Ph.D. student at UCLA Linguistics. Her research interests include phonology, learning bias, computational modeling of morphophonological learning, phonological acquisition and child-directed speech.
+Jinyoung Jo is a Ph.D. candidate at UCLA Linguistics. Her research interests include phonology, learning bias, computational modeling of morphophonological learning, phonological acquisition and child-directed speech.
