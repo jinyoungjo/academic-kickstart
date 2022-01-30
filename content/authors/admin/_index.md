@@ -22,10 +22,10 @@ bio: My research interests are individual differences in phonology, learning bia
 
 interests:
 - Phonology
-- Acquisition
-- Learnability
-- Learning bias
+- Individual difference
 - Variation in phonology
+- Learning biases
+- First language acquisition
 - Child-directed speech
 
 education:
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Jinyoung Jo is a Ph.D. candidate at UCLA Linguistics. Her research interests include phonology, learning bias, computational modeling of morphophonological learning, phonological acquisition and child-directed speech.
+Jinyoung Jo is a Ph.D. candidate at UCLA Linguistics. Her research interests include individual differences in phonology, learning biases, phonological acquisition and child-directed speech.
