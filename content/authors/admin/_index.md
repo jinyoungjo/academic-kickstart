@@ -50,7 +50,7 @@ social:
   link: "mailto:jinyoungjo@ucla.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/xbjgkgge4wke85e/cv.pdf?dl=0
+  link: https://www.dropbox.com/s/54m2atr6muouy1p/cv.pdf?dl=0
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
