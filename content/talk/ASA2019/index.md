@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Faytak, M., Aziz, J., Barnett, P., Jo, J., Kuo, J., Teixeira, G., Wu, J., Zhou, Z.L., & Keating, P. (2019). Flap articulation and lowered fourth formant. Acoustical Society of America 178, San Diego, CA."
+title: "Faytak, M., Aziz, J., Barnett, P., Jo, J., Kuo, J., Teixeira, G., Wu, J., Zhou, Z.L., & Keating, P. (2019). Flap articulation and lowered fourth formant. Poster presented at the Acoustical Society of America 178, San Diego, CA."
 event: Acoustical Society of America 178
 event_url:
-location: Acoustical Society of America 178
+location:
 address:
   street:
   city:

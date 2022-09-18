@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LING 1 - Introduction to Study of Language (Fall 2019)"
+title: "LING 1 - Introduction to Study of Language (TA at UCLA; Fall 2019)"
 summary: ""
 authors: []
 tags: []
@@ -9,7 +9,7 @@ categories: []
 date: 2019-09-23T17:22:45-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "#"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

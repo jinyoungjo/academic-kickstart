@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LING 102 - Introduction to Applied Phonetics (Winter 2020)"
+title: "LING 102 - Introduction to Applied Phonetics (TA at UCLA; Winter 2020)"
 summary: ""
 authors: []
 tags: []
@@ -9,7 +9,7 @@ categories: []
 date: 2020-01-02T17:43:54-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "#"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

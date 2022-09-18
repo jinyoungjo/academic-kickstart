@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J. (2021). Loss of productivity in phonological processes: The case of Korean vowel harmony. The Linguistic Society of America 2021 Annual Meeting."
+title: "Jo, J. (2021). Loss of productivity in phonological processes: The case of Korean vowel harmony. Talk presented at the Linguistic Society of America 2021 Annual Meeting."
 event: The Linguistic Society of America 2021 Annual Meeting
 event_url:
-location: The Linguistic Society of America 2021 Annual Meeting
+location:
 address:
   street:
   city:

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "KOREA 1 - Elementary Modern Korean (TA at UCLA; Fall 2020)"
+title: "ENG 620 - Introduction to Computational Linguistics (Lecturer at SFSU; Fall 2022)"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-09-28T13:29:03-08:00
+date: 2022-09-01T17:22:45-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "#"

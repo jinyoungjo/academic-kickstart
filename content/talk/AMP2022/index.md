@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J. (2016). Probabilistic OT analysis of realization of /nl/ sequence in Korean. Talk presented at the Gwanpojigyo [Gwanak phonology meeting]."
-event: Gwanpojigyo [Gwanak phonology meeting]
-event_url: 
+title: "Jo, J. (2022). Inter-speaker variation in the realization of stem-final coronal obstruents in Korean: Poster to be presented at the 2022 Annual Meeting on Phonology"
+event: The 2022 Annual Meeting on Phonology
+event_url:
 location:
 address:
   street:
@@ -16,13 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2017-03-08
-# date_end: 2017-03-08
+date: 2022-10-21
+date_end: 2022-10-23
 all_day: true
 
-
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-02T13:21:13-08:00
+publishDate: 2022-01-01T12:50:56-08:00
 
 authors: [Jinyoung Jo]
 tags: []

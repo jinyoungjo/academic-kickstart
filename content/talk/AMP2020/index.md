@@ -4,7 +4,7 @@
 title: "Jo, J. (2020). Loss of productivity in phonological processes: The case of Korean vowel harmony. Poster presented at the 2020 Annual Meeting on Phonology."
 event: The 2020 Annual Meeting on Phonology
 event_url:
-location: The 2020 Annual Meeting on Phonology
+location:
 address:
   street:
   city:

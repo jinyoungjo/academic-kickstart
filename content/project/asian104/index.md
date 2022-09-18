@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ASIAN 104 - Asian Language Pedagogy (grader; Fall 2021)"
+title: "ASIAN 104 - Asian Language Pedagogy (grader at UCLA; Fall 2021)"
 summary: ""
 authors: []
 tags: []
@@ -9,7 +9,7 @@ categories: []
 date: 2021-09-01T17:22:45-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "#"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

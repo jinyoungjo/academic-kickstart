@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "KOREA 1 - Elementary Modern Korean (TA at UCLA; Fall 2020)"
+title: "LING 120A - Phonology 1 (Spring 2021)"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-09-28T13:29:03-08:00
+date: 2021-04-01T17:22:45-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "#"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

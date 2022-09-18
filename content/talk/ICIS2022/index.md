@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J. (2016). Probabilistic OT analysis of realization of /nl/ sequence in Korean. Talk presented at the Gwanpojigyo [Gwanak phonology meeting]."
-event: Gwanpojigyo [Gwanak phonology meeting]
-event_url: 
+title: "Jo, J., Breiss, C., & Sundara, M. (2022). Verb segmentation in infancy as a predictor of language outcomes in 3-year-olds. Talk presented at the 2022 International Conference on Infant Studies."
+event: 2022 International Conference on Infant Studies
+event_url:
 location:
 address:
   street:
@@ -16,13 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2017-03-08
-# date_end: 2017-03-08
+date: 2022-07-07
+date_end: 2022-07-10
 all_day: true
 
-
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-02T13:21:13-08:00
+publishDate: 2021-01-02T12:44:37-08:00
 
 authors: [Jinyoung Jo]
 tags: []

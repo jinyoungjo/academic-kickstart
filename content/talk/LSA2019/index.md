@@ -4,7 +4,7 @@
 title: "Jo, J., & Ko, E.-S. (2019). Korean mothers fine-tune the frequency and acoustic saliency of sound symbolic words to their children’s linguistic maturity. Poster presented at the Linguistic Society of America 2019 Annual Meeting, New York, NY."
 event: The Linguistic Society of America 2019 Annual Meeting
 event_url:
-location: The Linguistic Society of America 2019 Annual Meeting
+location:
 address:
   street:
   city:

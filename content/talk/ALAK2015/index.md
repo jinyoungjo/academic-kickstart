@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J. (2015). The development of as … as construction: a corpus-based study. The Applied Linguistics Association of Korea 2015 International Conference."
+title: "Jo, J. (2015). The development of as … as construction: a corpus-based study. Talk presented at the Applied Linguistics Association of Korea 2015 International Conference."
 event: The Applied Linguistics Association of Korea 2015 International Conference
 event_url:
-location: The Applied Linguistics Association of Korea 2015 International Conference
+location:
 address:
   street:
   city:
