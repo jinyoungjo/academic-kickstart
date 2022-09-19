@@ -9,7 +9,7 @@ categories: []
 date: 2019-09-23T17:22:45-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "#"
+external_link: "https://catalog.registrar.ucla.edu/course/2021/LING1"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
