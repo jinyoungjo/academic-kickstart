@@ -31,6 +31,6 @@ publishDate: 'resubmitted'
 publication_types:
 - 0
 
-url_pdf: https://www.dropbox.com/s/wiu0un1kafy941q/webPostingWithCover_12-02-2022.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/xmq1yel8pdzr1qc/webPostingWithCover_12-15-2022.pdf?dl=0
 #doi: 10.3389/fpsyg.2018.02225
 ---
