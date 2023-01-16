@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Breiss, C., & Jo, J. (2023). Opacity, variation, and breakdown in Korean verbal morphophonology. Talk to be presented at the Linguistic Society of America 2023 Annual Meeting."
+title: "Breiss, C., & Jo, J. (2023). Opacity, variation, and breakdown in Korean verbal morphophonology. Talk presented at the Linguistic Society of America 2023 Annual Meeting."
 event: The Linguistic Society of America 2023 Annual Meeting
 event_url:
 location:
