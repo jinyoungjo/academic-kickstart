@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Korean vowel harmony has weak phonotactic support and is losing productivity (accepted)"
-subtitle: ''
+title: "Loss of productivity in phonological processes: The case of Korean vowel harmony. Unpublished MA thesis"
+subtitle:
 summary: ''
 authors:
 - Jinyoung Jo
 tags: []
 categories: []
-date: "2023-01-16"
-#lastmod: accepted
-featured: false
+date: '2020-08-01'
+#lastmod:
+featured: true
 draft: false
 
 # Featured image
@@ -27,11 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: "2023-01-16"
+publishDate: 2020
 publication_types:
-- 2
+- 0
 
-publication: '*Phonology*'
-url_pdf: https://www.dropbox.com/s/xxqkdz0mb8sqvdw/webPostingWithCover_accept_02-02-2023.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/fu4k892ys5ixsvq/Jinyoung_Jo_MA_FINAL.pdf?dl=0
 #doi: 10.3389/fpsyg.2018.02225
 ---
