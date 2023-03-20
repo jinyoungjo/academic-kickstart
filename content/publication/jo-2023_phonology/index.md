@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Korean vowel harmony has weak phonotactic support and is losing productivity (accepted)"
+title: "Korean vowel harmony has weak phonotactic support and has limited productivity (accepted)"
 subtitle: ''
 summary: ''
 authors:
