@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Word-order adaptation and lexical repetition in Korean child-directed speech: Implications for infants’ learning nouns in a verb-dominant language (in revision)"
+title: "Word-order adaptation and lexical repetition in Korean child-directed speech: Implications for infants’ learning nouns in a verb-dominant language (resubmitted)"
 subtitle:
 summary: ''
 authors:
