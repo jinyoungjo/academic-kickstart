@@ -5,7 +5,7 @@ title: The effect of prosodic cues on restrictive vs. non-restrictive interpreta
 subtitle:
 summary: ''
 authors:
-- Juyeon Cho, Jinyoung Jo, Sanghee Kim (co-first authors)
+- Jinyoung Jo, Juyeon Cho, Sanghee Kim (co-first authors)
 tags: []
 categories: []
 date: '2022-09-01'

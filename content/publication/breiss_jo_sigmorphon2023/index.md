@@ -1,16 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (in progress)
+title: "SIGMORPHON–UniMorph 2022 Shared Task 0: Cognitively Plausible Morphophonological Generalization in Koreanf"
 subtitle: ''
 summary: ''
 authors:
-- Jinyoung Jo, Megha Sundara, Canaan Breiss
+- Canaan Breiss
+- Jinyoung Jo
 tags: []
 categories: []
-date: 2022-09-15
-#lastmod: resubmitted
-featured: true
+date: "2023-06-14"
+#lastmod: accepted
+featured: false
 draft: false
 
 # Featured image
@@ -27,10 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 'resubmitted'
+publishDate: "2023-06-14"
 publication_types:
-- 0
+- 2
 
-#url_pdf: https://www.frontiersin.org/article/10.3389/fpsyg.2018.02225
+publication: '*Proceedings of the 20th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology*'
+#url_pdf: 
 #doi: 10.3389/fpsyg.2018.02225
 ---

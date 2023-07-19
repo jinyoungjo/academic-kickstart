@@ -8,7 +8,7 @@ authors:
 - Jinyoung Jo
 tags: []
 categories: []
-date: "2023-01-16"
+date: "2023-07-16"
 #lastmod: accepted
 featured: false
 draft: false
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: "2023-01-16"
+publishDate: "2023-07-16"
 publication_types:
 - 2
 

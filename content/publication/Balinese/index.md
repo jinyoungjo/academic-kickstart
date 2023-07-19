@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Balinese stem phonotactics and the subregularity hypothesis. Unpublished manuscript.
+title: Balinese stem phonotactics and the subregularity hypothesis. Unpublished manuscript
 subtitle:
 summary: ''
 authors:
