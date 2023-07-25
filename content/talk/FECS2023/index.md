@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J., & Choi, S. (2023). Analysis of plagiarism via ChatGPT on domain-specific exams. Talk to be presented at the 19th International Conference on Frontiers in Education: Computer Science and Computer Engineering, July 2023."
+title: "Jo, J., & Choi, S. (2023). Analysis of plagiarism via ChatGPT on domain-specific exams. Talk presented at the 19th International Conference on Frontiers in Education: Computer Science and Computer Engineering, July 2023."
 event: "The 19th International Conference on Frontiers in Education: Computer Science and Computer Engineering"
 event_url:
 location:
