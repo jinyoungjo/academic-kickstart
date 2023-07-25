@@ -31,6 +31,7 @@ publishDate: "2023-07-16"
 publication_types:
 - 2
 
+accepted: true
 publication: '*Phonology*'
 url_pdf: https://www.dropbox.com/s/xxqkdz0mb8sqvdw/webPostingWithCover_accept_02-02-2023.pdf?dl=0
 #doi: 10.3389/fpsyg.2018.02225

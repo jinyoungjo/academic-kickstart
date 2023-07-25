@@ -12,6 +12,7 @@ date: '2020-08-01'
 #lastmod:
 featured: true
 draft: false
+in_progress: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

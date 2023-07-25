@@ -12,6 +12,7 @@ date: '2022-09-01'
 lastmod: resubmitted
 featured: true
 draft: false
+in_progress: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

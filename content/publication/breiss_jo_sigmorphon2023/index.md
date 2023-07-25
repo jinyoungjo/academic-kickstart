@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SIGMORPHON–UniMorph 2022 Shared Task 0: Cognitively Plausible Morphophonological Generalization in Koreanf"
+title: "SIGMORPHON–UniMorph 2022 Shared Task 0: Cognitively Plausible Morphophonological Generalization in Korean"
 subtitle: ''
 summary: ''
 authors:

@@ -12,6 +12,7 @@ date: 2022-09-30
 #lastmod: resubmitted
 featured: true
 draft: false
+in_progress: true # To hide from all publications
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
