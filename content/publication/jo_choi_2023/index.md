@@ -30,8 +30,7 @@ image:
 projects: []
 publishDate: "2023-07-15"
 publication_types:
-- 2
-
+- 1
 accepted: true
 publication: '*Proceedings of the 2023 Congress in Computer Science, Computer Engineering, & Applied Computing*'
 #url_pdf: 

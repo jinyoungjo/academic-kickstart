@@ -30,7 +30,18 @@ projects: []
 publishDate: '2020-08-23T00:15:39.050978Z'
 publication_types:
 - 2
-abstract: ''
+abstract: "The present study aims to test the hypothesis in McCarthy (1998) and Hayes (2004) 
+that output-to-output faithfulness constraints are highly ranked a priori which leads children to initially 
+favor non-alternating forms but to eventually produce alternating forms as adults do. Using spontaneous speech 
+data of six mother-child dyads (Demuth et al. 2006), I examined how word-medial /t/ and /d/ in the flapping environment 
+were realized in suffixed words such as eating (base: eat) and hiding (base: hide). 
+The results show that children indeed produced suffixed words with variants that are faithful to the 
+corresponding segment in the base (e.g., ea[t]ing and hi[d]ing), especially in earlier stages of learning. 
+Such characteristic speech of children cannot be fully explained by the influence of the input 
+data that they receive from their caregivers. Thus, I conclude that children’s production of 
+variants that are phonologically similar to the base is due to highly ranked output-to-output faithfulness 
+constraints at the initial state of learning. Based on a set of OT constraints, the children’s grammar is 
+modeled with maximum entropy grammar (Goldwater and Johnson 2003)."
 publication: '*Studies in Phonetics, Phonology and Morphology*'
 doi: http://dx.doi.org/10.17959/sppm.2017.23.2.261
 ---
