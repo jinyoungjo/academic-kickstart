@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-01-02T12:44:37-08:00
 
-authors: [Jinyoung Jo]
+authors: [Eon-Suk Ko, Jihyo Kim, Jinyoung Jo]
 tags: []
 
 # Is this a featured talk? (true/false)

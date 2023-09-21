@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J., Breiss, C., & Sundara, M. (2022). Verb segmentation in infancy as a predictor of language outcomes in 3-year-olds. Talk presented at the 2022 International Conference on Infant Studies."
-event: 2022 International Conference on Infant Studies
+title: "Jo, J. (accepted). Individual differences in the pronunciation of Korean stem-final obstruents and their relationship to cognitive traits. Poster (talk alternate) to be presented at the Linguistic Society of America 2024 Annual Meeting."
+event: The Linguistic Society of America 2024 Annual Meeting
 event_url:
 location:
 address:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-07-07
-date_end: 2022-07-10
+date: 2024-01-04
+date_end: 2024-01-07
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-01-02T12:44:37-08:00
 
-authors: [Jinyoung Jo, Canaan Breiss, Megha Sundara]
+authors: [Jinyoung Jo]
 tags: []
 
 # Is this a featured talk? (true/false)

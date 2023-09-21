@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-01-02T12:44:37-08:00
 
-authors: [Jinyoung Jo]
+authors: [Jinyoung Jo, Sean Choi]
 tags: []
 
 # Is this a featured talk? (true/false)

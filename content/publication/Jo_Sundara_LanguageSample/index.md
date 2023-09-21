@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (in revision)"
-subtitle:
+title: Properties of language samples collected remotely from 3-year-olds (in progress)
+subtitle: ''
 summary: ''
 authors:
-- Eon-Suk Ko, Jinyoung Jo, Jun Ho Chai
+- Jinyoung Jo, Megha Sundara
 tags: []
 categories: []
-date: 2022-09-30
-#lastmod: resubmitted
+date: 2023-09-05
+#lastmod: in prep
 featured: true
 draft: false
-in_progress: true # To hide from all publications
+in_progress: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,6 +32,6 @@ publishDate: 'resubmitted'
 publication_types:
 - 0
 
-url_pdf: https://psyarxiv.com/dxbhm/
+#url_pdf: https://www.dropbox.com/scl/fi/crygvewkqezl5oc8w7gv6/longitudinal.pdf?rlkey=in416j7owsu60mepqn77fjs0r&dl=0
 #doi: 10.3389/fpsyg.2018.02225
 ---
