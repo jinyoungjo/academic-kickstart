@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J. (2022). Inter-speaker variation in the realization of stem-final coronal obstruents in Korean. Poster presented at the 2022 Annual Meeting on Phonology"
-event: The 2022 Annual Meeting on Phonology
+title: "Jo, J. (accepted). Individual differences in the pronunciation of Korean stem-final obstruents and their relationship to cognitive traits. Poster to be presented at the 2023 Annual Meeting on Phonology"
+event: The 2023 Annual Meeting on Phonology
 event_url:
 location:
 address:
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-10-21
-date_end: 2022-10-23
+date: 2023-10-20
+date_end: 2023-10-22
 all_day: true
 
 # Schedule page publish date (NOT talk date).
