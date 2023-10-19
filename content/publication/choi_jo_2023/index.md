@@ -1,15 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: The effect of prosodic cues on restrictive vs. non-restrictive interpretations of relative clauses in Korean (in progress)
-subtitle:
+title: "Leveraging linguistic signals to improve machine learning models for detecting ChatGPT usage on exams (in progress)"
+subtitle: ''
 summary: ''
 authors:
-- Jinyoung Jo, Juyeon Cho, Sanghee Kim (co-first authors)
+- Sean Choi
+- Jinyoung Jo
 tags: []
 categories: []
-date: '2022-09-01'
-lastmod: resubmitted
+date: "2023-10-15"
+#lastmod: accepted
 featured: true
 draft: false
 in_progress: true
@@ -28,10 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 'resubmitted'
+publishDate: "2023-07-15"
 publication_types:
-- 0
-
-#url_pdf: https://www.frontiersin.org/article/10.3389/fpsyg.2018.02225
+- 6
+accepted: true
+publication: 'Invited as a book chapter for *Artificial Intelligence, Machine Learning, Convolutional Neural Networks and Large Language Models*'
+#url_pdf: 
 #doi: 10.3389/fpsyg.2018.02225
 ---
