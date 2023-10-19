@@ -13,7 +13,7 @@ date: "2023-10-15"
 #lastmod: accepted
 featured: true
 draft: false
-in_progress: true
+in_progress: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
