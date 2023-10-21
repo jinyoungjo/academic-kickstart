@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ENG 620 - Introduction to Computational Linguistics (Lecturer at SFSU; Fall 2022)"
+title: "ENG 620 - Introduction to Computational Linguistics (Lecturer at San Francisco State University; Fall 2022)"
 summary: ""
 authors: []
 tags: []
