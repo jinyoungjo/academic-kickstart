@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Leveraging linguistic signals to improve machine learning models for detecting ChatGPT usage on exams (in progress)"
+title: "Leveraging linguistic signals to improve machine learning models for detecting ChatGPT usage on exams (in progress; invited to be submitted as a book chapter)"
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ publishDate: "2023-07-15"
 publication_types:
 - 6
 accepted: true
-publication: 'Invited as a book chapter for *Artificial Intelligence, Machine Learning, Convolutional Neural Networks and Large Language Models*'
+publication: 'Invited to be submitted as a chapter in *Artificial Intelligence, Machine Learning, Convolutional Neural Networks and Large Language Models*'
 #url_pdf: 
 #doi: 10.3389/fpsyg.2018.02225
 ---

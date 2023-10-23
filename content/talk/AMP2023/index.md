@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J. (accepted). Individual differences in the pronunciation of Korean stem-final obstruents and their relationship to cognitive traits. Poster to be presented at the 2023 Annual Meeting on Phonology"
+title: "Jo, J. (2023). Sources of inter-speaker variation in the realization of stem-final coronal obstruents in Korean. Poster presented at the 2023 Annual Meeting on Phonology"
 event: The 2023 Annual Meeting on Phonology
 event_url:
 location:
