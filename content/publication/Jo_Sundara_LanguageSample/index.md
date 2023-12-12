@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Properties of language samples collected remotely from 3-year-olds (in progress)
+title: Remote collection of language samples from 3-year-olds (submitted)
 subtitle: ''
 summary: ''
 authors:
 - Jinyoung Jo, Megha Sundara
 tags: []
 categories: []
-date: 2023-09-05
+date: 2023-12-12
 #lastmod: in prep
 featured: true
 draft: false
@@ -32,6 +32,6 @@ publishDate: 'resubmitted'
 publication_types:
 - 0
 
-#url_pdf: https://www.dropbox.com/scl/fi/crygvewkqezl5oc8w7gv6/longitudinal.pdf?rlkey=in416j7owsu60mepqn77fjs0r&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/6mt1c258wd4z6e219holc/JSLHR.pdf?rlkey=g3l7284kcewu90hlqpkz0qn55&dl=0
 #doi: 10.3389/fpsyg.2018.02225
 ---
