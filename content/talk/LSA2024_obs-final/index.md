@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J. (accepted). Individual differences in the pronunciation of Korean stem-final obstruents and their relationship to cognitive traits. Poster (talk alternate) to be presented at the Linguistic Society of America 2024 Annual Meeting."
+title: "Jo, J. (accepted). Sources of individual differences in the pronunciation of Korean stem-final coronal obstruents. Poster to be presented at the Linguistic Society of America 2024 Annual Meeting."
 event: The Linguistic Society of America 2024 Annual Meeting
 event_url:
 location:
