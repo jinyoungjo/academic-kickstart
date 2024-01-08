@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J.*, Cho, J.*, Kim, S. J.*, & Jun, S.-A. (accepted). What prosody does when morphosyntax is absent: the case of Korean relative clauses. Talk to be presented at the Linguistic Society of America 2024 Annual Meeting, Jaunary 2024. (* = co-first authors)"
+title: "Jo, J.*, Cho, J.*, Kim, S. J.*, & Jun, S.-A. (2024). What prosody does when morphosyntax is absent: the case of Korean relative clauses. Talk presented at the Linguistic Society of America 2024 Annual Meeting, Jaunary 2024. (* = co-first authors)"
 event: The Linguistic Society of America 2024 Annual Meeting
 event_url:
 location:
