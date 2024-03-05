@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SLHS 300 - Communicative and Cognitive Development Across the Lifespan (Lecturer at California State University, East Bay; Spring 2024)"
+title: "LING 115 - Linguistics and Speech Pathology (TA at UCLA; Winter 2021)"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2023-10-02T17:22:45-07:00
+date: 2021-01-01T17:22:45-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://catalog.csueastbay.edu/preview_program.php?catoid=33&poid=14431&returnto=28881"
+external_link: "https://catalog.registrar.ucla.edu/course/2022/LING115"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

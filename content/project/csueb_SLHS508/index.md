@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SLHS 508 - Lifespan Development and Child Language Disorders (Lecturer at California State University, East Bay; scheduled for Spring 2024)"
+title: "SLHS 508 - Lifespan Development and Child Language Disorders (Lecturer at California State University, East Bay; Spring 2024)"
 summary: ""
 authors: []
 tags: []

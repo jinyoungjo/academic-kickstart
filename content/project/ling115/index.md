@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LING 115 - Linguistics and Speech Pathology (TA at UCLA; Winter 2021)"
+title: "LING 115 - Linguistics and Speech Pathology (TA at UCLA; Winter 2021, Spring 2024)"
 summary: ""
 authors: []
 tags: []
