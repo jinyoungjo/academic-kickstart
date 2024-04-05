@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Remote collection of language samples from 3-year-olds (submitted)
+title: Remote collection of language samples from 3-year-olds (in revision)
 subtitle: ''
 summary: ''
 authors:
