@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Analysis of plagiarism via ChatGPT on domain-specific exams. (accepted)"
+title: "Analysis of plagiarism via ChatGPT on domain-specific exams."
 subtitle: ''
 summary: ''
 authors:

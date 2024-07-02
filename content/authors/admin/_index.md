@@ -32,7 +32,7 @@ education:
   courses:
   - course: Ph.D. in Linguistics
     institution: University of California, Los Angeles
-    year: In Progress
+    year: 2024 (expected)
   - course: M.A. in English Language & Literature
     institution: Seoul National University
     year: 2017

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J.*, Cho, J.*, Kim, S. J.*, & Jun, S.-A. (2024). What prosody does when morphosyntax is absent: the case of Korean relative clauses. Talk presented at the Linguistic Society of America 2024 Annual Meeting, Jaunary 2024. (* = co-first authors)"
-event: The Linguistic Society of America 2024 Annual Meeting
+title: "Jo, J., & Sundara, M. (2024). Remote collection of language samples from 3-year-olds. Talk presented at Chosun Center for Data Science in Humanities Annual Workshop, June 2024."
+event: Chosun Center for Data Science in Humanities Annual Workshop
 event_url:
 location:
 address:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-01-04
-date_end: 2024-01-07
+date: 2024-06-24
+date_end: 2024-06-25
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-01-02T12:44:37-08:00
 
-authors: [Jinyoung Jo, Juyeon Cho, Sanghee J. Kim, Sun-Ah Jun]
+authors: [Jinyoung Jo]
 tags: []
 
 # Is this a featured talk? (true/false)
