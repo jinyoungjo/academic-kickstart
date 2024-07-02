@@ -11,7 +11,7 @@ authors:
 - Sun-Ah Jun
 tags: []
 categories: []
-date: '2024-03-15'
+date: "2024-03-15"
 #lastmod: accepted
 featured: false
 draft: false
@@ -30,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-03-15'
+publishDate: "2024-03-15"
 publication_types:
 - 1
-accepted: true
 abstract: This study investigates the role of prosodic information in linguistic interpretation in the absence of an explicit linguistic marker to resolve ambiguity. We particularly focus on the impact of prosody on comprehension of restrictive relative clauses (RRC) and non-restrictive relative clauses (NRC) in Korean, a language that lacks morphosyntactic or orthographic markers that distinguish between RRC and NRC. We hypothesize that narrow focus prosody may be associated with RRC, while broad focus prosody with NRC, which we test in two experiments through a picture selection task (Experiment 1) and an audio selection task (Experiment 2). Results showed that Korean listeners associated narrow focus prosody more often with RRC-biased pictures than NRC-biased pictures, suggesting that prosodic information has an impact on the resolution of syntactic ambiguity in the absence of any explicit linguistic marker. Further investigation suggests that there is variation in the impact of prosody across individuals and their sensitivity to prosody seems to be affected differently depending on the type of task.
 publication: '*Proceedings of the Linguistic Society of America*'
 url_pdf: https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5719
