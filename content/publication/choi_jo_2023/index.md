@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams (accepted)"
+title: "Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams"
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ projects: []
 publishDate: "2023-07-15"
 publication_types:
 - 6
-accepted: true
+#accepted: false
 publication: '*Artificial Intelligence, Machine Learning, Convolutional Neural Networks and Large Language Models*'
 #url_pdf: 
 #doi: 10.3389/fpsyg.2018.02225

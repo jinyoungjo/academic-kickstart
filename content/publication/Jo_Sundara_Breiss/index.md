@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (in revision)
+title: Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (resubmitted)
 subtitle: ''
 summary: ''
 authors:
