@@ -11,7 +11,7 @@ authors:
 
 tags: []
 categories: []
-date: "2024-10-15"
+date: "2024-04-15"
 #lastmod: accepted
 
 draft: false
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: "2023-07-15"
+publishDate: "2023-04-15"
 publication_types:
 - 6
 #accepted: false

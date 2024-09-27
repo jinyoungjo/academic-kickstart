@@ -10,23 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Social Science Research Professional
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Los Angeles
-  url: "https://linguistics.ucla.edu"
+- name: Stanford University
+  url: "https://linguistics.stanford.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are individual differences in phonology, learning biases, phonological acquisition and child-directed speech.
 
 interests:
-- Phonology
-- Individual difference
-- Variation in phonology
+- Individual differences in phonology
+- Phonological variation
 - Learning biases
-- First language acquisition
 - Child-directed speech
+- Language and cognition
+- Computational modeling of human linguistic behavior
+- Large Language Models
 
 education:
   courses:
@@ -47,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jinyoungjo@ucla.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:jinyoungjo@stanford.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: https://www.dropbox.com/s/54m2atr6muouy1p/cv.pdf?dl=0
@@ -73,4 +74,10 @@ user_groups:
 - Visitors
 ---
 
-Jinyoung Jo is a Ph.D. candidate at UCLA Linguistics. Her research interests include individual differences in phonology, learning biases, phonological acquisition and child-directed speech.
+I am a Social Science Research Professional in the Department of Linguistics at Stanford University. I recently defended my Ph.D. dissertation in Linguistics at UCLA, where I investigated the sources of individual differences in phonology and used computational methods to model inter-speaker variation. My research also explores phonological development and the characteristics of child-directed speech. Recently, I have been working at the intersection of linguistics and Large Language Models.
+
+If you are a graduate student or a faculty member at Stanford Linguistics, you can schedule a meeting with me <a href="https://jinyoungjo.youcanbook.me">here</a>, or come to my office hours.
+
+Fall 2024 Office Hours:
+
+Tuesday 1:00pm-2:30pm, Thursday 11:00am-12:30pm

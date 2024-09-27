@@ -1,18 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Remote collection of language samples from 3-year-olds (resubmitted)
+title: Remote collection of language samples from 3-year-olds (accepted)
 subtitle: ''
 summary: ''
 authors:
 - Jinyoung Jo, Megha Sundara
 tags: []
 categories: []
-date: 2023-12-12
+date: "2024-09-27"
 #lastmod: in prep
-featured: true
+featured: false
 draft: false
-in_progress: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,10 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 'resubmitted'
+publishDate: "2024-09-27"
 publication_types:
-- 0
+- 2
 
-url_pdf: https://www.dropbox.com/scl/fi/6mt1c258wd4z6e219holc/JSLHR.pdf?rlkey=g3l7284kcewu90hlqpkz0qn55&dl=0
+accepted: true
+publication: '*Journal of Child Language*'
+url_pdf: https://www.dropbox.com/scl/fi/u13lnnpj28shcmexdpil8/Jo_Sundara_JCL_manuscript_AuthorInfoRemoved.pdf?rlkey=dv7hbufgz0yeqnp38fw6ooimj&st=sl0f4b0w&dl=0
 #doi: 10.3389/fpsyg.2018.02225
 ---

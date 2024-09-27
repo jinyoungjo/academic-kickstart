@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Korean vowel harmony has weak phonotactic support and has limited productivity (accepted)"
+title: "Korean vowel harmony has weak phonotactic support and has limited productivity"
 subtitle: ''
 summary: ''
 authors:
 - Jinyoung Jo
 tags: []
 categories: []
-date: "2024-10-16"
+date: "2024-09-26"
 #lastmod: accepted
 featured: false
 draft: false
@@ -27,12 +27,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: "2023-07-16"
+publishDate: "2024-09-26"
 publication_types:
 - 2
 
-accepted: true
 publication: '*Phonology*'
-url_pdf: https://www.dropbox.com/s/xxqkdz0mb8sqvdw/webPostingWithCover_accept_02-02-2023.pdf?dl=0
-#doi: 10.3389/fpsyg.2018.02225
+#url_pdf: https://doi.org/10.1017/S0952675724000071
+doi: https://doi.org/10.1017/S0952675724000071
 ---
