@@ -35,5 +35,5 @@ publication_types:
 - 1
 publication: '*Proceedings of the 2023 Congress in Computer Science, Computer Engineering, & Applied Computing*'
 url_pdf: https://www.american-cse.org/csce2023-ieee/pdfs/CSCE2023-5LlpKs7cpb4k2UysbLCuOx/275900b026/275900b026.pdf
-doi: 10.1109/CSCE60160.2023.00171
+doi: https://doi.org/10.1109/CSCE60160.2023.00171
 ---
