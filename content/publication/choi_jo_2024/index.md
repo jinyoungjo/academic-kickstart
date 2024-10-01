@@ -35,6 +35,6 @@ publication_types:
 - 6
 #accepted: false
 publication: '*Artificial Intelligence, Machine Learning, Convolutional Neural Networks and Large Language Models*'
-#url_pdf: 
-#doi: 10.3389/fpsyg.2018.02225
+#url_pdf:
+#doi: 
 ---
