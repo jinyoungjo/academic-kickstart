@@ -12,6 +12,7 @@ date: "2024-09-27"
 #lastmod: in prep
 featured: false
 draft: false
+accepted: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
