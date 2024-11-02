@@ -1,18 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (accepted)
+title: Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy
 subtitle: ''
 summary: ''
 authors:
 - Jinyoung Jo, Megha Sundara, Canaan Breiss
 tags: []
 categories: []
-date: 2024-10-18
+date: 2024-10-30
 #lastmod: resubmitted
 featured: false
 draft: false
-accepted: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,7 +31,7 @@ publishDate: 'resubmitted'
 publication_types:
 - 0
 
-url_pdf: https://www.dropbox.com/scl/fi/crygvewkqezl5oc8w7gv6/longitudinal.pdf?rlkey=in416j7owsu60mepqn77fjs0r&dl=0
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0163638324000808
 publication: '*Infant Behavior and Development*'
-#doi: 10.3389/fpsyg.2018.02225
+doi: 10.1016/j.infbeh.2024.102001
 ---
