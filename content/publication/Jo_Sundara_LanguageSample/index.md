@@ -8,7 +8,7 @@ authors:
 - Jinyoung Jo, Megha Sundara
 tags: []
 categories: []
-date: "2024-09-27"
+date: "2024-11-27"
 #lastmod: in prep
 featured: false
 draft: false
@@ -34,6 +34,6 @@ publication_types:
 
 accepted: true
 publication: '*Journal of Child Language*'
-url_pdf: https://www.dropbox.com/scl/fi/u13lnnpj28shcmexdpil8/Jo_Sundara_JCL_manuscript_AuthorInfoRemoved.pdf?rlkey=dv7hbufgz0yeqnp38fw6ooimj&st=sl0f4b0w&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/fbdr5featoay609yqfdt9/Jo_Sundara_JCL_final_manuscript_AuthorInfoRemoved.pdf?rlkey=y9g8rtyuhkz59rn0b34fmys81&st=c63aog9o&dl=0
 #doi: 10.3389/fpsyg.2018.02225
 ---
