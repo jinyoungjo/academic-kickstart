@@ -1,17 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Remote collection of language samples from 3-year-olds
-subtitle: ''
+title: "Individual differences in phonology: the realization of stem-final coronal obstruents in Korean. Unpublished doctoral dissertation"
+subtitle:
 summary: ''
 authors:
-- Jinyoung Jo, Megha Sundara
+- Jinyoung Jo
 tags: []
 categories: []
-date: "2024-12-12"
-#lastmod: in prep
-featured: false
+date: '2024-11-15'
+#lastmod:
+featured: true
 draft: false
+in_progress: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,12 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: "2024-12-12"
+publishDate: 2020
 publication_types:
-- 2
+- 0
 
-accepted: true
-publication: '*Journal of Child Language*'
-url_pdf: https://www.cambridge.org/core/journals/journal-of-child-language/article/remote-collection-of-language-samples-from-threeyearolds/327D4F86B9B9A018D52418076170110E
-doi: https://doi.org/10.1017/S0305000924000643
+url_pdf: https://escholarship.org/uc/item/8bn0b529#main
+#doi: 
 ---

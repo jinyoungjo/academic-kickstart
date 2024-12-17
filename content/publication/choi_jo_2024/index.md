@@ -36,5 +36,5 @@ publication_types:
 #accepted: false
 publication: '*Artificial Intelligence, Machine Learning, Convolutional Neural Networks and Large Language Models*'
 #url_pdf:
-#doi: 
+doi: https://doi.org/10.1515/9783111344126-013
 ---

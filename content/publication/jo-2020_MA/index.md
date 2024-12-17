@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Loss of productivity in phonological processes: The case of Korean vowel harmony. Unpublished MA thesis"
+title: "Loss of productivity in phonological processes: The case of Korean vowel harmony. Unpublished master's thesis"
 subtitle:
 summary: ''
 authors:
@@ -32,6 +32,6 @@ publishDate: 2020
 publication_types:
 - 0
 
-url_pdf: https://www.dropbox.com/s/fu4k892ys5ixsvq/Jinyoung_Jo_MA_FINAL.pdf?dl=0
+url_pdf: https://linguistics.ucla.edu/wp-content/uploads/2020/09/Jinyoung_Jo_MA_FINAL.pdf
 #doi: 10.3389/fpsyg.2018.02225
 ---

@@ -74,10 +74,10 @@ user_groups:
 - Visitors
 ---
 
-I am a Social Science Research Professional in the Department of Linguistics at Stanford University. I recently defended my Ph.D. dissertation in Linguistics at UCLA, where I investigated the sources of individual differences in phonology and used computational methods to model inter-speaker variation. My research also explores phonological development and the characteristics of child-directed speech. Recently, I have been working at the intersection of linguistics and Large Language Models.
+I am a Social Science Research Professional in the Department of Linguistics at Stanford University. I received my Ph.D. in Linguistics at UCLA, where I investigated the sources of individual differences in phonology and used computational methods to model inter-speaker variation. I also investigate phonological development and the characteristics of child-directed speech. Recently, my research draws on linguistic insights to understand the performance of Large Language Models.
 
 If you are a graduate student or a faculty member at Stanford Linguistics, you can schedule a meeting with me <a href="https://jinyoungjo.youcanbook.me">here</a>, or come to my office hours.
 
-Fall 2024 Office Hours:
+Winter 2025 Office Hours:
 
 Tuesday 1:00pm-2:30pm, Thursday 11:00am-12:30pm

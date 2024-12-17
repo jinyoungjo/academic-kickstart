@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: 2024-10-30
 publication_types:
-- 0
+- 2
 
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0163638324000808
 publication: '*Infant Behavior and Development*'

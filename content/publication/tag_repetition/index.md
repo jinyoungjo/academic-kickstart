@@ -33,5 +33,5 @@ publication_types:
 - 0
 
 url_pdf: https://psyarxiv.com/dxbhm/
-#doi: 10.3389/fpsyg.2018.02225
+doi: https://doi.org/10.31234/osf.io/dxbhm
 ---

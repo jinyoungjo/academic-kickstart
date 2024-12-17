@@ -32,6 +32,6 @@ publication_types:
 - 2
 
 publication: '*Phonology*'
-#url_pdf: https://doi.org/10.1017/S0952675724000071
+url_pdf: https://doi.org/10.1017/S0952675724000071
 doi: https://doi.org/10.1017/S0952675724000071
 ---
