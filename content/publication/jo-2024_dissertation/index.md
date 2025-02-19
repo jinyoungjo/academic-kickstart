@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Individual differences in phonology: the realization of stem-final coronal obstruents in Korean. Unpublished doctoral dissertation"
+title: "Individual differences in phonology: the realization of stem-final coronal obstruents in Korean [Doctoral dissertation]. University of California, Los Angeles."
 subtitle:
 summary: ''
 authors:

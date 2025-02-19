@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (in revision)"
+title: "Large Language Models exhibit limited reasoning ability on coding problems (submitted)"
 subtitle:
 summary: ''
 authors:
-- Eon-Suk Ko, Jinyoung Jo, Jun Ho Chai
+- Jinyoung Jo, Jonah Engelmann, Sean Choi
 tags: []
 categories: []
-date: 2025-01-01
+date: 2025-02-15
 #lastmod: resubmitted
 featured: true
 draft: false
@@ -28,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 2025-01-01
+publishDate: 2025-02-15
 publication_types:
 - 0
 
-url_pdf: https://psyarxiv.com/dxbhm/
-doi: https://doi.org/10.31234/osf.io/dxbhm
+#url_pdf: https://psyarxiv.com/dxbhm/
+#doi: https://doi.org/10.31234/osf.io/dxbhm
 ---
