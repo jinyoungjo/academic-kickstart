@@ -78,4 +78,4 @@ I am a Social Science Research Professional in the Department of Linguistics at 
 
 If you are a graduate student or a faculty member at Stanford Linguistics, you can schedule a meeting with me <a href="https://jinyoungjo.youcanbook.me">here</a>, or come to my office hours.
 
-Spring 2025 Office Hours: Tuesdays 12:30pm-2:30pm
+Spring 2025 Office Hours: Tuesdays 11:30pm-1:30pm
