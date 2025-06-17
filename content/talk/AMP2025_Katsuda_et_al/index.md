@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Katsuda, H., Repiso-Puigdelliura, G., Zuraw, K., & Jo, J. (2025). Exploring phonological rule application in code-switching among Spanish-English bilinguals. Poster to be presented at the Phonetics and Phonology in Europe 2025."
-event: The 6th Phonetics and Phonology in Europe (PaPE 2025)
+title: "Katsuda, H., Repiso-Puigdelliura, G., Zuraw, K., & Jo, J. (2025). Applying phonological rules in code-mixed contexts: the effect of dominance in rule application. Poster to be presented at the 2025 Annual Meeting on Phonology, September 2025."
+event: The 2025 Annual Meeting on Phonology
 event_url:
 location:
 address:
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-06-25
-date_end: 2025-06-27
+date: 2025-09-25
+date_end: 2025-09-27
 all_day: true
 
 # Schedule page publish date (NOT talk date).
