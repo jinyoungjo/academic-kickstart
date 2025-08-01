@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Katsuda, H., Repiso-Puigdelliura, G., Zuraw, K., & Jo, J. (2025). Exploring phonological rule application in code-switching among Spanish-English bilinguals. Poster presented at the Phonetics and Phonology in Europe 2025, June 2025."
-event: The 6th Phonetics and Phonology in Europe (PaPE 2025)
+title: "Ko, E.-S., Chai, J., McDonald, M., & Jo, J. (2025). Age-related changes in sound symbolism and word learning in Korean infants. Poster to be presented at the Boston University Conference on Language Development, November 2025."
+event: The 50th Annual Boston University Conference on Language Development
 event_url:
 location:
 address:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-06-25
-date_end: 2025-06-27
+date: 2025-11-06
+date_end: 2025-11-09
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2022-01-01T12:50:56-08:00
+publishDate: 2025-08-01
 
-authors: [Hironori Katsuda, Gemma Repiso-Puigdelliura, Kie Zuraw, Jinyoung Jo]
+authors: [Eon-Suk Ko, Jun Ho Chai, Margarethe McDonald, Jinyoung Jo]
 tags: []
 
 # Is this a featured talk? (true/false)

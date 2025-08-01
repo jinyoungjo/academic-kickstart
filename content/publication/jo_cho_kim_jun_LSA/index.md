@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "What prosody does when morphosyntax is absent: the case of Korean relative clauses. (* = co-first authors)"
+title: "What prosody does when morphosyntax is absent: the case of Korean relative clauses. (* = equal contribution)"
 subtitle: ''
 summary: ''
 authors:
