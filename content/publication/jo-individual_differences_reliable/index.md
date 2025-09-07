@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Large Language Models exhibit limited reasoning ability on coding questions (submitted)"
-subtitle:
+title: "Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (submitted)"
+subtitle: ''
 summary: ''
 authors:
-- Jinyoung Jo, Sean Choi, Graham Kim, Jonah Engelmann
+- Jinyoung Jo
 tags: []
 categories: []
-date: 2025-07-29
-#lastmod: resubmitted
+date: "2025-09-03"
+#lastmod: accepted
 featured: true
 draft: false
-in_progress: true # To hide from all publications
+in_progress: true 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,10 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 2025-02-15
+publishDate: "2024-09-26"
 publication_types:
 - 0
 
-#url_pdf: https://psyarxiv.com/dxbhm/
-#doi: https://doi.org/10.31234/osf.io/dxbhm
+#publication: '*Cognition*'
+url_pdf: https://doi.org/10.1017/S0952675724000071
+doi: https://doi.org/10.1017/S0952675724000071
 ---
