@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Katsuda, H., Repiso-Puigdelliura, G., Zuraw, K., & Jo, J. (2025). Applying phonological rules in code-mixed contexts: the effect of dominance in rule application. Poster to be presented at the 2025 Annual Meeting on Phonology, September 2025."
+title: "Katsuda, H., Repiso-Puigdelliura, G., Zuraw, K., & Jo, J. (2025). Applying phonological rules in code-mixed contexts: the effect of dominance in rule application. Poster presented at the 2025 Annual Meeting on Phonology, September 2025."
 event: The 2025 Annual Meeting on Phonology
 event_url:
 location:

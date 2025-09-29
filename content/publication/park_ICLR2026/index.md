@@ -1,14 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (submitted)"
+title: "Clip-low increases entropy and clip-high decreases entropy in reinforcement learning of large language models (submitted)"
 subtitle: ''
 summary: ''
 authors:
+- Jaesung R. Park
+- Junsu Kim
+- Gyeongman Kim
 - Jinyoung Jo
+- Sean Choi
+- Jaewoong Cho
+- Ernest K. Ryu
 tags: []
 categories: []
-date: "2025-09-29"
+date: "2025-09-24"
 #lastmod: accepted
 featured: true
 draft: false

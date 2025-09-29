@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J., Choi, S., & Anttila, A. (2025). Can large language models predict English phrasal stress? Talk to be presented at the 2025 Annual Meeting on Phonology, September 2025."
+title: "Jo, J., Choi, S., & Anttila, A. (2025). Can large language models predict English phrasal stress? Talk presented at the 2025 Annual Meeting on Phonology, September 2025."
 event: The 2025 Annual Meeting on Phonology
 event_url:
 location:
