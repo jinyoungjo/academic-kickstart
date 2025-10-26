@@ -1,18 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Large Language Models exhibit limited reasoning ability on coding questions (submitted)"
+title: "Large Language Models exhibit limited reasoning ability on coding questions (accepted)"
 subtitle:
 summary: ''
 authors:
-- Jinyoung Jo, Sean Choi, Graham Kim, Jonah Engelmann
+- Jinyoung Jo, Jonah Engelmann, Sean Choi
 tags: []
 categories: []
-date: 2025-07-29
+date: 2025-12-20
 #lastmod: resubmitted
-featured: true
+featured: false
 draft: false
-in_progress: true # To hide from all publications
+accepted: true
+in_progress: false # To hide from all publications
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,5 +34,6 @@ publication_types:
 - 0
 
 #url_pdf: https://psyarxiv.com/dxbhm/
+publication: '*Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 2: Short Papers)*'
 #doi: https://doi.org/10.31234/osf.io/dxbhm
 ---
