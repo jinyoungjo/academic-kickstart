@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jo, J., Engelmann, J., & Choi, S. (2025). Large language models exhibit limited reasoning ability on coding problems. To be presented at the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, December 2025."
+title: "Jo, J., Engelmann, J., & Choi, S. (2025). Large language models exhibit limited reasoning ability on coding problems. Poster presented at the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, December 2025."
 event: The 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
 event_url:
 location:

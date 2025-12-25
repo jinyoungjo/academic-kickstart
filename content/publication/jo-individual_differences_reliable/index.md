@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (submitted)"
+title: "Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (in revision)"
 subtitle: ''
 summary: ''
 authors:
