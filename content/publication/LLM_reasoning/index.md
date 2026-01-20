@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Large Language Models exhibit limited reasoning ability on coding questions (accepted)"
+title: "Large language models exhibit limited reasoning ability on coding problems"
 subtitle:
 summary: ''
 authors:
@@ -12,7 +12,6 @@ date: 2025-12-20
 #lastmod: resubmitted
 featured: false
 draft: false
-accepted: true
 in_progress: false # To hide from all publications
 
 # Featured image
@@ -31,9 +30,9 @@ image:
 projects: []
 publishDate: 2025-12-20
 publication_types:
-- 0
+- 1
 
-#url_pdf: https://psyarxiv.com/dxbhm/
-publication: '*Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 2: Short Papers)*'
+url_pdf: https://aclanthology.org/2025.ijcnlp-short.13.pdf
+publication: '*Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics*'
 #doi: https://doi.org/10.31234/osf.io/dxbhm
 ---
