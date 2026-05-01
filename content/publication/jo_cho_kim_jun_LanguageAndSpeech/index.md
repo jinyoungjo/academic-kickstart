@@ -1,14 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (resubmitted)"
+title: "What prosody does when morphosyntax is absent: the case of Korean relative clauses (submitted)"
 subtitle: ''
 summary: ''
 authors:
-- Jinyoung Jo
+- Jinyoung Jo*
+- Juyeon Cho*
+- Sanghee J. Kim*
+- Sun-Ah Jun (* = equal contribution)
 tags: []
 categories: []
-date: "2026-05-01"
+date: "2026-04-30"
 #lastmod: accepted
 featured: true
 draft: false
@@ -28,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: "2026-05-01"
+publishDate: "2026-04-30"
 publication_types:
 - 0
 
