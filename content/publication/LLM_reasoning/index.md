@@ -34,5 +34,5 @@ publication_types:
 
 url_pdf: https://aclanthology.org/2025.ijcnlp-short.13.pdf
 publication: '*Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics*'
-#doi: https://doi.org/10.31234/osf.io/dxbhm
+doi: 10.18653/v1/2025.ijcnlp-short.13
 ---

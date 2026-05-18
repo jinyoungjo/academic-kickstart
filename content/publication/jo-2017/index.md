@@ -44,4 +44,5 @@ constraints at the initial state of learning. Based on a set of OT constraints, 
 modeled with maximum entropy grammar (Goldwater and Johnson 2003)."
 publication: '*Studies in Phonetics, Phonology and Morphology*'
 doi: http://dx.doi.org/10.17959/sppm.2017.23.2.261
+url_pdf: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002255199
 ---
