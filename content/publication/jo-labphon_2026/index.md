@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: "2026-10-05"
 publication_types:
-- 0
+- 2
 
 publication: 'Laboratory Phonology'
 #url_pdf: https://doi.org/10.1017/S0952675724000071
