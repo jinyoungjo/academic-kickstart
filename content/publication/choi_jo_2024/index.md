@@ -15,6 +15,7 @@ date: "2024-04-15"
 #lastmod: accepted
 
 draft: false
+in_progress: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

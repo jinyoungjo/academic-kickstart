@@ -1,7 +1,6 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
+# A Manuscripts and Work in Progress section.
+# This section displays publication entries with `in_progress = true`.
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -21,6 +20,9 @@ subtitle = ""
   # Choose how many pages you would like to offset by
   offset = 0
 
+  # Include only publication entries marked as in progress.
+  filter_in_progress = true
+
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
@@ -30,7 +32,6 @@ subtitle = ""
     category = ""
     publication_type = ""
     author = ""
-    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.

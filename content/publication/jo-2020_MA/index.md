@@ -10,7 +10,6 @@ tags: []
 categories: []
 date: '2020-08-01'
 #lastmod:
-featured: true
 draft: false
 in_progress: true
 

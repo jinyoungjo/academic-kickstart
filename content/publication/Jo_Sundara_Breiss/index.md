@@ -10,8 +10,8 @@ tags: []
 categories: []
 date: 2024-10-30
 #lastmod: resubmitted
-featured: false
 draft: false
+in_progress: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

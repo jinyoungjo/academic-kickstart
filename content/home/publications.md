@@ -1,6 +1,6 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# Work in progress entries are excluded using their `in_progress` value.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -23,13 +23,15 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
+  # Exclude manuscripts and other work in progress.
+  exclude_in_progress = true
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
     category = ""
     publication_type = ""
     author = ""
-    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.

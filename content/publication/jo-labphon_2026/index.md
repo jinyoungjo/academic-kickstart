@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (resubmitted)"
+title: "Individual differences in phonology are reliable: The realization of stem-final obstruents in Korean"
 subtitle: ''
 summary: ''
 authors:
 - Jinyoung Jo
 tags: []
 categories: []
-date: "2026-05-01"
+date: "2026-10-05"
 #lastmod: accepted
-featured: true
 draft: false
-in_progress: true 
+in_progress: false 
+accepted: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,11 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: "2026-05-01"
+publishDate: "2026-10-05"
 publication_types:
 - 0
 
-#publication: '*Cognition*'
+publication: 'Laboratory Phonology'
 #url_pdf: https://doi.org/10.1017/S0952675724000071
 #doi: https://doi.org/10.1017/S0952675724000071
 ---

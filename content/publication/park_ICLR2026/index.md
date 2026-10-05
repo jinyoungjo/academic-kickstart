@@ -16,7 +16,6 @@ tags: []
 categories: []
 date: "2025-09-24"
 #lastmod: accepted
-featured: true
 draft: false
 in_progress: true 
 

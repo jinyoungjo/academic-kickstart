@@ -10,7 +10,6 @@ tags: []
 categories: []
 date: 2025-09-25
 #lastmod: resubmitted
-featured: true
 draft: false
 in_progress: true # To hide from all publications
 

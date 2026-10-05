@@ -10,7 +10,6 @@ tags: []
 categories: []
 date: '2024-11-15'
 #lastmod:
-featured: true
 draft: false
 in_progress: true
 

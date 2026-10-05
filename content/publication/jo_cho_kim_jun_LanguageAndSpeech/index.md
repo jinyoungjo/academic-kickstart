@@ -13,7 +13,6 @@ tags: []
 categories: []
 date: "2026-04-30"
 #lastmod: accepted
-featured: true
 draft: false
 in_progress: true 
 
